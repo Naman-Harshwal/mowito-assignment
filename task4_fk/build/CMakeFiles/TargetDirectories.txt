@@ -1,0 +1,7 @@
+/home/nammy/mowito-assignments/task4_fk/build/CMakeFiles/forward_kinematics.dir
+/home/nammy/mowito-assignments/task4_fk/build/CMakeFiles/edit_cache.dir
+/home/nammy/mowito-assignments/task4_fk/build/CMakeFiles/rebuild_cache.dir
+/home/nammy/mowito-assignments/task4_fk/build/CMakeFiles/list_install_components.dir
+/home/nammy/mowito-assignments/task4_fk/build/CMakeFiles/install.dir
+/home/nammy/mowito-assignments/task4_fk/build/CMakeFiles/install/local.dir
+/home/nammy/mowito-assignments/task4_fk/build/CMakeFiles/install/strip.dir
