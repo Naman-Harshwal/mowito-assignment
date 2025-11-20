@@ -489,13 +489,6 @@ pytest>=6.2.0      # For running unit tests
 4. ✅ Code is runnable and tested
 5. ✅ Mathematical explanations included
 
-## 📞 Contact
-
-For questions during the interview, be prepared to explain:
-- Core algorithms and mathematical foundations
-- Edge case handling strategies
-- Design decisions and trade-offs
-- How to extend the code for additional features
 
 ## 📄 License
 
@@ -503,7 +496,7 @@ This project is created for the Mowito Robotics Assignment.
 
 ---
 
-**Author**: Your Name  
+**Author**: Naman Sain 
 **Date**: November 2025  
 **Assignment**: Robotics Math Test - Tasks 1 & 2
 ```
