@@ -1,3 +1,18 @@
+```
+
+
+## 📄 License
+
+This project is created for the Mowito Robotics Assignment.
+
+---
+
+**Author**: Naman Sain 
+**Date**: November 2025
+
+```
+
+
 Clone repo: git clone https://github.com/namanharshwal/mowito-assignment.git && cd mowito-assignments
 
 Install deps: sudo apt update && sudo apt install ros-humble-desktop libeigen3-dev cmake build-essential
@@ -464,27 +479,7 @@ numpy>=1.21.0
 matplotlib>=3.4.0  # Optional, for visualization
 scipy>=1.7.0       # Optional, for advanced tests
 pytest>=6.2.0      # For running unit tests
-```
 
-## 🤝 Submission
-
-1. ✅ All code pushed to private GitHub repository
-2. ✅ Added `puru07` as collaborator
-3. ✅ README with clear run instructions
-4. ✅ Code is runnable and tested
-5. ✅ Mathematical explanations included
-
-
-## 📄 License
-
-This project is created for the Mowito Robotics Assignment.
-
----
-
-**Author**: Naman Sain 
-**Date**: November 2025  
-**Assignment**: Robotics Math Test - Tasks 1 & 2
-```
 
 ***
 
