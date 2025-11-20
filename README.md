@@ -270,8 +270,8 @@ math_assignment/
 
 ```
 # Clone the repository
-git clone https://github.com/yourusername/math-assignment.git
-cd math-assignment
+git clone https://github.com/namanharshwal/mowito-assignment.git
+cd ~/src/robotics_projects/math-assignment
 
 # Install dependencies
 python3 -m pip install --user -r requirements.txt
@@ -432,21 +432,6 @@ print("Full pose:\n", T)
 - Joint limits → Can be added by modifying DH parameters
 - Numerical stability → Uses numpy for precision
 
-## 🎓 Interview Preparation
-
-### Key Concepts to Explain
-
-**Task 1:**
-1. Why use quaternions? (Gimbal lock avoidance, smooth interpolation)
-2. What is gimbal lock? (Loss of DOF at ±90° pitch)
-3. Conversion formulas (Half-angle trigonometry)
-4. Normalization importance (Unit quaternion constraint)
-
-**Task 2:**
-1. DH parameters meaning (θ, d, a, α)
-2. Why perpendicular joints? (Simplifies kinematics, α = ±90°)
-3. Matrix multiplication order (Right-to-left: T₀₄ = T₀₁ T₁₂ T₂₃ T₃₄)
-4. End-effector extraction (Position from last column [0:3, 3])
 
 ### Algorithm Explanations
 
