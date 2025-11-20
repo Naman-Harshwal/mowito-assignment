@@ -1,0 +1,7 @@
+/home/nammy/mowito-assignments/task3_euler_quat/build/CMakeFiles/euler_to_quat.dir
+/home/nammy/mowito-assignments/task3_euler_quat/build/CMakeFiles/edit_cache.dir
+/home/nammy/mowito-assignments/task3_euler_quat/build/CMakeFiles/rebuild_cache.dir
+/home/nammy/mowito-assignments/task3_euler_quat/build/CMakeFiles/list_install_components.dir
+/home/nammy/mowito-assignments/task3_euler_quat/build/CMakeFiles/install.dir
+/home/nammy/mowito-assignments/task3_euler_quat/build/CMakeFiles/install/local.dir
+/home/nammy/mowito-assignments/task3_euler_quat/build/CMakeFiles/install/strip.dir
