@@ -1,4 +1,4 @@
-Clone repo: git clone https://github.com/your-username/mowito-assignment.git && cd mowito-assignments
+Clone repo: git clone https://github.com/namanharshwal/mowito-assignment.git && cd mowito-assignments
 
 Install deps: sudo apt update && sudo apt install ros-humble-desktop libeigen3-dev cmake build-essential
 
