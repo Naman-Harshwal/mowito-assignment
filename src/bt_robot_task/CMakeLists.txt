@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.8)
+project(bt_robot_task)
+find_package(PkgConfig REQUIRED)
+pkg_check_modules(BT REQUIRED behaviortree_cpp)
+include_directories(${CMAKE_SOURCE_DIR}/include ${BT_INCLUDE_DIRS})
+add_executable(robot_task_executor src/main.cpp)
+target_link_libraries(robot_task_executor ${BT_LIBRARIES})
+set_target_properties(robot_task_executor PROPERTIES CXX_STANDARD 17)
